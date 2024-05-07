@@ -1,6 +1,6 @@
 ## About me
 
-🎓 Student in Quantitative Finance and Engineer in Applied Mathematics and Scientific Computing        
+🎓 Jr trader wannabe with interest in Machine Learning, power market & Stochastic Calculus
 💼 Quantitative Analyst Intern 
 ## 📚 Favorite languages :
 ![Python](https://img.shields.io/badge/-Python-E15622?style=for-the-badge&logo=Python&logoColor=white)
