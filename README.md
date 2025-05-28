@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItoWindsor&langs_count=4&hide=jupyter%20notebook,cmake,shell,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>    
 ## 🚧 Currently Working On
-- 📈 **Derivatives Pricing Engine** (*C++*) – Features Binomial Trees, Monte-Carlo, Finite Difference and analytical solutions.
+- 📈 **Derivatives Pricing Engine** (*C++* & *Python*) – Features Binomial Trees, Monte-Carlo, Finite Difference and analytical solutions. Accessible through a webapp : frontend in python (dash) and backend in C++
 - ⚙️ **Algorithmic Trading Engine** (*Python*) – Microservices architecture, includes MarketDataHandler, OMS, and strategy modules with real-time monitoring.
 <br><br>  
 ## 🧭 Next Projects
